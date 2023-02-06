@@ -11,15 +11,6 @@
 
 
 
-/*LAYOUT*/
-
-.header-container {
-    height: 25rem;
-    width: 100%;
-}
-
-
-
 /*COLORS*/
 
 .header-container {
@@ -29,9 +20,24 @@
 
 
 
-/*COLORS*/
+/*FONTS*/
 
 .header-container {
     font-family: sans-serif;
 }
+
+
+
+/*LAYOUT*/
+
+.header-container {
+    height: 25rem;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
 
